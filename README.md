@@ -13,7 +13,7 @@
 ## 다운로드 및 실행
 
 1. 오른쪽 **Releases**에서 최신 버전을 엽니다.
-2. `education-room-ip-switch-v1.0.0.zip`을 내려받습니다.
+2. `ip.zip`을 내려받습니다.
 3. ZIP 파일을 풀고 BAT 파일을 더블클릭합니다.
 4. Windows의 사용자 계정 컨트롤 화면에서 **예**를 선택합니다.
 5. 교육 모드에서는 운영진에게 안내받은 IP 끝자리를 입력한 뒤 사용할 Wi-Fi 어댑터를 선택합니다.
@@ -35,4 +35,4 @@
 
 Release에 함께 제공되는 `SHA256SUMS.txt`에서 다운로드 파일의 SHA-256 값을 확인할 수 있습니다.
 
-ZIP 압축을 원하지 않는 경우 Release의 `education-room-ip-switch-v1.0.0.bat` 파일을 직접 내려받아 실행할 수도 있습니다.
+ZIP 압축을 원하지 않는 경우 Release의 `ip.bat` 파일을 직접 내려받아 실행할 수도 있습니다.
