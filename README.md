@@ -34,3 +34,5 @@
 ## 파일 무결성
 
 Release에 함께 제공되는 `SHA256SUMS.txt`에서 다운로드 파일의 SHA-256 값을 확인할 수 있습니다.
+
+ZIP 압축을 원하지 않는 경우 Release의 `education-room-ip-switch-v1.0.0.bat` 파일을 직접 내려받아 실행할 수도 있습니다.
